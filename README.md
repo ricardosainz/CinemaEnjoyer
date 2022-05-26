@@ -2,6 +2,8 @@
 
 Demo -> https://youtu.be/M4HKVdp4QkM
 
+![Image text]([https://github.com/zgb15/GAME_WEB/blob/master/00PRUEBAS/gamemd.png](https://github.com/ricardosainz/CinemaEnjoyer/blob/main/00demo/ssReproductor1.png))
+
 - Registro: La clase Persona.php contiene una función que inserta los datos de un objeto de su tipo en la tabla Usuarios, este objeto lo crearemos a partir de los datos introducidos en el formulario de la interfaz Registro.php. 
 - Login: La clase Validar.php consulta en la tabla Usuarios un registro con el email y la contraseña que hemos obtenido del formulario de la interfaz IniciarSesion.php.
 - Test: Mediante las respuestas obtenidas a partir del formulario de la interfaz Test.php, calcularemos una puntuación basada en un sistema de asignación de puntos.
